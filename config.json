@@ -1,0 +1,15 @@
+{
+    "chain": {
+        "id": "ed8636abfe625d99fc9a759d49a016fd8dcae9193676a020aae2540c9fffe32f",
+        "endPoint": "http://rpc.yas.plus",
+        "key": "",
+        "account": "freeaccount1"
+    },
+    "mongodb": {
+        "url": "mongodb://localhost:27017",
+        "dbName": "yasfaucet"
+    },
+    "telegram": {
+        "token": ""
+    }
+}
