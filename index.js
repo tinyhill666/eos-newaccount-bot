@@ -43,7 +43,9 @@ const reply_msg = "Welcome to use Free YAS Account Bot, You can get a free yas a
     + "Then, input : newaccount:<username>:<public key>\n" + "然后，回复 : newaccount:<账户名>:<公钥>\n\n"
     + "username must have 12 characters with a-z and 1-5, public key is generated in step1.\n"
     + "账户名必须是由a-z和1-5字符组成的12位账户名.\n\n"
-    + "example input :\n回复示例:\nnewaccount:free1account:EOS7LzEx6LAVPfNdc8qikXrAf819xTPHdFuZNEjiQb7rEovG6dqUY\n";
+    + "example input :\n回复示例:\nnewaccount:free1account:EOS7LzEx6LAVPfNdc8qikXrAf819xTPHdFuZNEjiQb7rEovG6dqUY\n\n\n"
+    + "tool developed by plusplusplus bp , please vote for us.\n"
+    + "工具由 plusplusplus 节点开发，请投票支持我们"
 
 //tg bot
 // bot.onText(/\/start/, (msg) => {
